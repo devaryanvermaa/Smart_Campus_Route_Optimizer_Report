@@ -1,0 +1,13 @@
+# Smart Campus Parking & Route Optimizer
+# Technology Stack Dependencies
+
+# GUI and Graph Algorithms use Python 3 Standard Library:
+# - tkinter and ttk (Built-in)
+# - heapq (Built-in priority queue min-heap)
+# - csv (Built-in file persistence)
+# - unittest (Built-in automated test suite)
+
+# Optional dependency for enhanced Matplotlib visualization:
+# If matplotlib is absent, the system seamlessly falls back to the native
+# high-performance Tkinter Canvas visualizer with zero degradation.
+matplotlib>=3.5.0
